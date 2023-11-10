@@ -39,3 +39,7 @@ Customers with a loyalty membership receive a 10% discount on their purchase.
 4. If the customer has made any returns in past, the price is increased by $150.
 
 5. Loyalty members receive a 10% discount.
+
+**Questions**
+
+1. Why was the price age + 15
